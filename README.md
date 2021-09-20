@@ -11,7 +11,8 @@ set SPOTIPY_REDIRECT_URI=Enter your redirect URL here<br />
 <br />
 Some pictures of the game<br />
 Start menu: <br />
-![start](https://user-images.githubusercontent.com/88517710/133963552-13ce535c-ddf1-419c-bd29-2120c6dec49d.PNG)
+
+![start](https://user-images.githubusercontent.com/88517710/133963592-76bee70a-577a-4185-8a02-4c4b50d1903c.PNG)
 
 
 Specific artist search: <br />
